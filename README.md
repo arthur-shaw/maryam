@@ -1,3 +1,4 @@
 Hello, world!
 
-Just commiting work...
+This project involves commiting stuff.
+
